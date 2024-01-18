@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SpringCloud on wmy102125的个人博客</title>
+    <link>https://example.org/tags/springcloud/</link>
+    <description>Recent content in SpringCloud on wmy102125的个人博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/springcloud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nacso安装</title>
+      <link>https://example.org/posts/nacos/</link>
+      <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/nacos/</guid>
+      <description>&lt;p&gt;Nacso安装&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

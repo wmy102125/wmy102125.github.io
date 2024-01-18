@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on wmy102125的个人博客</title>
+    <link>https://example.org/tags/</link>
+    <description>Recent content in Tags on wmy102125的个人博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nacso</title>
+      <link>https://example.org/tags/nacso/</link>
+      <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/nacso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SpringCloud</title>
+      <link>https://example.org/tags/springcloud/</link>
+      <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/springcloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>注册中心</title>
+      <link>https://example.org/tags/%E6%B3%A8%E5%86%8C%E4%B8%AD%E5%BF%83/</link>
+      <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/%E6%B3%A8%E5%86%8C%E4%B8%AD%E5%BF%83/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
